@@ -67,7 +67,7 @@ The wider "technology" is Technik. )
 All __g__ should be read __"hard"__, as the g in gas. 
 
 1. The e in Tech is rendered as the English e in bed. 
-The German e is never rendered as in English see (that would be an German i). 
+The German e is never rendered as in English see; that would be an German i. 
 
 1. Controlling quiz: do you know what a Gymnasium is? 
 
