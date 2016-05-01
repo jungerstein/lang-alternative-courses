@@ -51,3 +51,47 @@ The letter _d_ can be compared with the English _th_ in "the".
 German lacks the both th sound. 
 This phonetic difference may be familiar: this --- X dis, that --- X dat. 
 Controlling quiz: How to spell thick in German? 
+
+Technologie
+-----------
+
+1. More than an answer to a controlling quiz, this is a real German word. 
+(Skip the contents in the parentheses if you wish. 
+Technologie is what one gets when one applies our research, 
+or in the sense "the technology to solve cubic equations". 
+The wider "technology" is Technik. )
+
+1. Here, the ch reads [x]. Yes, it is the correct pronunciation of X in TeX. 
+
+1. In German, there is nothing like soft g. 
+All __g__ should be read __"hard"__, as the g in gas. 
+
+1. Controlling quiz: do you know what a Gymnasium is? 
+
+Gymnasium
+---------
+
+1. In English, you go to gymnasium to exercise your _body_. 
+In German, your child go to a Gymnasium to exercise his/her _mind_. 
+The German version of Gymnasium refers to a grammar school. 
+
+1. As you may know, the word is loaned from Latin gymnasium, 
+Greek γυμνάσιον. The verb is γυμνάζω "to exercise". 
+
+1. The German __s__ on its own at syllable beginnings reads like English __z__. 
+The greek Z in the verb helps to memorize it. 
+
+1. The German __y__ on its own reads the same way as Ü, 
+i.e. __u__ in lips, __e__ at tounge. 
+
+1. Of course it is of the __neuter__ gender as it is in Latin, 
+the same as many -ium in the Periodic Table of Elements. 
+
+1. The article is __das__. The __as__ is familiar (contained in Gymn__as__ium). 
+
+Unanswered Quiz(zes)
+====================
+
+Thick is dick
+-------------
+As stated above, th is sometimes "changed" to d in German. 
