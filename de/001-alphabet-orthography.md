@@ -102,3 +102,5 @@ Unanswered Quiz(zes)
 Thick is dick
 -------------
 As stated above, th is sometimes "changed" to d in German. 
+
+Yes, it is read just as the English four-letter-word. 
