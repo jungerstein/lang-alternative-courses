@@ -66,6 +66,9 @@ The wider "technology" is Technik. )
 1. In German, there is nothing like soft g. 
 All __g__ should be read __"hard"__, as the g in gas. 
 
+1. The e in Tech is rendered as the English e in bed. 
+The German e is never rendered as in English see (that would be an German i). 
+
 1. Controlling quiz: do you know what a Gymnasium is? 
 
 Gymnasium
@@ -86,6 +89,10 @@ i.e. __u__ in lips, __e__ at tounge.
 
 1. Of course it is of the __neuter__ gender as it is in Latin, 
 the same as many -ium in the Periodic Table of Elements. 
+
+1. The German u sounds like oo in book. 
+
+1. The German a sounds like a in bar (in British fashion). 
 
 1. The article is __das__. The __as__ is familiar (contained in Gymn<b>as</b>ium). 
 
