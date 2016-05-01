@@ -5,7 +5,7 @@ The German Alphabet
 1. German is a language using the Latin alphabet. 
 It uses all the letters A to Z. 
 On A, O, and U, diacritics are also used to form Umlauts
-(um = around; Laut = sound, cf. English laud) Ä, Ö, and Ü. 
+(um = around; Laut = sound, cf. English loud) Ä, Ö, and Ü. 
 There is also a ligature ß, combined with a long s 
 and a z. 
 However, one usually still counts the letters as 26. 
